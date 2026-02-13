@@ -11,6 +11,7 @@ Selecione as opções aplicáveis:
 - [] Alteração de feature existente
 - [] Documentação
 - [] Refatoração
-- [] Outro (descrever
+- [] Outro (descrever)
 
 ## Issue Relacionada
+Closes #<número_da_issue>
